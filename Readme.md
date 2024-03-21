@@ -6,4 +6,6 @@
 * Năm học: 2020-204
 * khoa : Công nghệ thông tin
 * chuyên ngành: Công Nghệ phần Mềm
+* sở thích: Cắm trại , nghe nhạc , du lịch
+
 
